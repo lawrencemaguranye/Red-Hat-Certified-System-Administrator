@@ -1,4 +1,4 @@
-![RHCSA Logo](https://github.com/lawrencemaguranye/Red-Hat-Certified-System-Administrator/blob/main/RHCSA.png)  
+![RHCSA Logo](https://github.com/lawrencemaguranye/Red-Hat-Certified-System-Administrator/blob/main/rhsa-lab/RHCSA.png)  
 # 📘 Red Hat Certified System Administrator (RHCSA) Study Guide & Lab Projects
 
 This repository contains comprehensive study notes, command references, hands-on labs, and project-based exercises for preparing for the **Red Hat Certified System Administrator (RHCSA) EX200** certification, aligned with **Red Hat Enterprise Linux (RHEL 9)** objectives.
